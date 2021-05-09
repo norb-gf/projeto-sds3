@@ -1,4 +1,3 @@
-import { Console } from "node:console";
 import { SalePage } from "types/sale";
 
 type Props = {
